@@ -1,0 +1,12 @@
+<head>
+div{"
+    background-image: url("HTML/background.jpeg")
+    width: 50%;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+    box-shadow: 4px 4px 5px lightgray;
+}
+</head>

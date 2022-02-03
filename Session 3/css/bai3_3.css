@@ -1,0 +1,32 @@
+body{
+    width: 60%;
+    margin: auto;
+    font-size: large;
+    background-color: white;
+    box-shadow: 5px 5px 5px darkgray;
+}
+#tieude1{
+    color:#2A6433;
+}
+#tieude2{
+    color: blue;
+    text-decoration: underline;
+}
+#me{
+    background-color: #F7D1FA;
+    color: #EA4898;
+    text-align: center;
+}
+div{
+    background-color: #FEFED2;
+    text-align: center;
+}
+#content1{
+    color: blue;
+}
+#content2{
+    color: red;
+}
+#content3{
+    color: green
+}

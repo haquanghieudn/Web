@@ -1,0 +1,24 @@
+div{
+    width: 60%;
+    margin: auto;
+    font-size: large;
+}
+.tieude{
+background-color: #CECE52;
+text-align: center;
+color: #388024;
+}
+h4{
+    text-align: center;
+}
+#content1{
+    text-align: center;
+    color: blue;
+}
+#content2{
+    color: red;
+}
+#content3{
+    text-align: right;
+
+}
