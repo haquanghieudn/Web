@@ -1,5 +1,5 @@
 body{
-    width: 50%;
+    width: 60%;
     margin: auto;
     font-size: large;
     background-color: white;
@@ -9,11 +9,25 @@ h1{
     text-indent: 1cm;
     color:#EA346B
 }
+ul{
+    background-color: white;
+    font-size: medium;
+    font-weight: normal;
+    color: black;
+}
+#header{
+    background-color: #EA346B;
+    background-size: 10%;
+    font-size: bigger;
+    color: white;
+    font-weight: bold;
+    list-style-type: decimal;
+}
 .containerflex {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: stretch;
     align-content: stretch;
     padding: 5px;
@@ -22,7 +36,7 @@ h1{
     height: 480px;
     margin: auto;
 }
-.imgbox{
+.imgbox {
     padding: 20px;
     background: lightblue;
     margin: 1px;
@@ -31,18 +45,4 @@ h1{
 #anhnen{
     width: 200px;
     height: 320px;
-}
-ol{
-    list-style: color: black;
-}
-.list{
-    list-style-type: decimal;
-    background-color: #EA346B;
-    width: 100px;
-    font-size: bigger;
-    color: white;
-    font-weight: bold;
-}
-h5{
-    background-color: #FBE8FD;
 }
